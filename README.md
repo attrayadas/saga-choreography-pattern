@@ -10,4 +10,4 @@ When a user places an order, order will be fulfilled if the product's price is w
 - Spring Cloud Stream
 - Multi-module project: Reuse component/classes
 
-<img src="assets/saga pattern.PNG" alt="ci cd" style="width: 60%;">
+<img src="assets/saga pattern.png" alt="saga pattern diagram" style="width: 60%;">
